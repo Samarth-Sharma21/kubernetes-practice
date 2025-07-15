@@ -1,0 +1,4 @@
+
+# Ignore macOS system file and secrets
+.DS_Store
+mongo-demo/secret.yml
